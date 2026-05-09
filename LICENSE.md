@@ -1,4 +1,4 @@
-
+Enhance Ulysses for macOS with Ulysses for macOS ultimate Addon: auto-sync & markdown support, the #1 addon. Includes auto-sync and markdown support for a smoother experience.
 
 
 
